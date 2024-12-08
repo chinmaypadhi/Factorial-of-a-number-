@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\bin\Debug\net5.0\Factorial of a no.exe
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\bin\Debug\net5.0\Factorial of a no.deps.json
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\bin\Debug\net5.0\Factorial of a no.runtimeconfig.json
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\bin\Debug\net5.0\Factorial of a no.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\bin\Debug\net5.0\Factorial of a no.dll
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\bin\Debug\net5.0\ref\Factorial of a no.dll
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\bin\Debug\net5.0\Factorial of a no.pdb
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\obj\Debug\net5.0\Factorial of a no.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\obj\Debug\net5.0\Factorial of a no.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\obj\Debug\net5.0\Factorial of a no.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\obj\Debug\net5.0\Factorial of a no.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\obj\Debug\net5.0\Factorial of a no.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\obj\Debug\net5.0\Factorial of a no.dll
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\obj\Debug\net5.0\ref\Factorial of a no.dll
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\obj\Debug\net5.0\Factorial of a no.pdb
+C:\Users\Asus\source\repos\Factorial of a no\Factorial of a no\obj\Debug\net5.0\Factorial of a no.genruntimeconfig.cache
